@@ -21,6 +21,4 @@
 <br/>
 ☐ Switch to NeoVim from Vim and create a config
 <br/>
-☐ Create a YouTube Channel and post at least 3 videos
-
 
