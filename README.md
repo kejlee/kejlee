@@ -5,20 +5,3 @@
 </div>
 
  
- - i'm Kenny a junior Student at La Canada High School
- - I'm interested in video games, reading, coding, math, animations, and music!
- - Send me game recommendations!
-
-2026 Goals:
-<br/>
-☐ Create a video game
-<br/>
-☐ Finish up LCHS website for C3
-<br/>
-☐ Participate in a hackathon with LC iTeam
-<br/>
-☐ Do something cool with LC iTeam
-<br/>
-☐ Switch to NeoVim from Vim and create a config
-<br/>
-
